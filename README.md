@@ -25,11 +25,13 @@
 **Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany**.
 
 ## Current running projects
-**1. Investigation of commensal bacteria in controlling Pseudomonas aeruginosa airway infection** **(supported by funding from DFG and Mukoviszidose e.V.)**
+**1. Investigation of host-pathogen-commensal interaction in human lung diseases to develop novel therapies for inflammation and infection control** **(supported by funding from DFG and Mukoviszidose e.V.)**
 
 **2. Emerging pathogens e.g. SARS-CoV-2 genomic epidemiology and variants surveillance to precisely evaluate pandemic or post-pandemic conditions** **(supported by University Hospital and Medical Faculty Carl-Gustav-Carus)**
 
-**3. Collabration projects with other teams by providing analyses with well-established methods, such as microbiome investigation, functional genomics analysis or deep sequencing data analysis**
+**3. Comparative analysis of Streptococcus pathogens and commensals with a combination of computational biology and microbiology approaches to identify pathogen-related genetic elements**
+
+**4. Collabration projects with other teams by providing analyses with well-established methods, such as microbiome investigation, functional genomics analysis or deep sequencing data analysis**
 
 ## Methods
 **Both experimental approaches (e.g. Microbiology, Immunology methods) and computational biology/bioinformatics approaches are applied**.
@@ -74,7 +76,7 @@
 2.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
 3.	Google Scholar: https://scholar.google.ch/citations?user=06ENkiMAAAAJ&hl=en
 
-### (Total impact factors of first and last author papers:129; h-index:11)
+### (Total impact factors of first and last author papers: **129**; h-index: **11**)
 
 ## Publication list:
 1.	M. Stadtmüller, A. Laubner, F. Rost, S. Winkler, E. Patrasová, L. Šimůnková, S. Reinhardt, J. Beil, A. H. Dalpke, B. Yi (corresponding author) (2022). Emergence and spread of a sub-lineage of SARS-CoV-2 Alpha variant B.1.1.7 in Europe, and with further evolution of spike mutation accumulations shared with the Beta and Gamma variants. Virus Evolution. DOI: 10.1093/ve/veac010. (Impact Factor: 5.61)
