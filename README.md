@@ -53,6 +53,12 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 **Multi-omics data analysis**, incorporating omics data from diverse laysers, such as transcriptome, proteome, metabolome.
 
 **Deep sequencing data analysis for CRISPR experiment**, e.g. library establishement, choosing of postive clones.
+## Publication overview (total impact factors of first and last author papers:129,2; h-index:11;):
+1.	ORCID: https://orcid.org/0000-0003-4820-2560
+2.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
+3.	Google Scholar: https://scholar.google.ch/citations?user=06ENkiMAAAAJ&hl=en
+
+
 
 
 
