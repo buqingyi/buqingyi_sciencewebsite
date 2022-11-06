@@ -4,7 +4,7 @@
 
 **Senior Researcher**
 
-Institute of Medical Microbiology and Virology**,
+Institute of Medical Microbiology and Virology,
 
 University Hospital and Medical Faculty Carl-Gustav-Carus, 
 
