@@ -20,7 +20,8 @@ buqing.yi@uniklinikum-dresden.de
 **2. Emerging pathogens e.g. SARS-CoV-2 genomic epidemiology and variants surveillance to precisely evaluate pandemic or post-pandemic conditions** **(supported by University Hospital and Medical Faculty Carl-Gustav-Carus)**
 
 **3. Collabration projects with other teams by providing analyses with well-established methods, such as microbiome investigation, functional genomics analysis or deep sequencing data analysis**
-
+## Funding sources
+**(supported by funding from DFG and Mukoviszidose e.V.)**
 
 
 
