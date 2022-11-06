@@ -2,9 +2,11 @@
 ![Buqing Yi](https://user-images.githubusercontent.com/93262080/200172685-a16c256e-7a0f-4dae-be2c-272db4e979b9.jpeg)
 ## Dr. rer. nat. Buqing Yi
 
-**Senior Researcher at the Institute of Medical Microbiology and Virology**,
+**Senior Researcher**
 
-**University Hospital and Medical Faculty Carl-Gustav-Carus**, 
+Institute of Medical Microbiology and Virology**,
+
+University Hospital and Medical Faculty Carl-Gustav-Carus, 
 
 Technische Universität Dresden, Fiedlerstr. 42, 01307 Dresden, 
 
