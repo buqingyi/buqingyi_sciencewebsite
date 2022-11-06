@@ -27,6 +27,8 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 
 **in vitro models**: BEAS-2B (Human bronchial epithelial cell line); BLaER1 (Human monocyte cell line); CFBE41o- (Human CF Bronchial Epithelial Cell Line)
 
+**Other approaches**: FACS analysis, bacterial growth monitoring; antibiotics resistance measurement; qPCR; bead-based protein multiplex assay; ELISA and others
+
 
 
 
