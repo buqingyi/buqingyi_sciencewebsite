@@ -28,6 +28,14 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 **in vitro models**: BEAS-2B (Human bronchial epithelial cell line); BLaER1 (Human monocyte cell line); CFBE41o- (Human CF Bronchial Epithelial Cell Line)
 
 **Other approaches**: FACS analysis, bacterial growth monitoring; antibiotics resistance measurement; qPCR; bead-based protein multiplex assay; ELISA; other commonly used microbiolgy and immunology approaches
+### Computational approaches:
+**Functional genomic analysis (in particular with a focus on bacterium and virus)
+**Microbiome investigation (experiment design, sequencing, and data analysis and interpretation)
+**Transcriptome analysis (differntial gene expression analysis, function enrichment analysis, master reguloar analysis, and other custimized anylysis based on specific reseach goals) - in Human,Mouse,and Bacterium
+**Phylogenetic analysis to decipher evolution relationship of differnet organisms, e.g. bacterium, virus, fungus
+**Phylogeographic analysis and phylodynamic analysis to investigate the spreading of certain pathogen, eg. bacterium, virus, fungus.
+**Multi-omics data analysis,incorporating omics data from diverse laysers, such as transcriptome, proteome, metabolome.
+**Deep sequencing data analysis for CRISPR experiment, e.g. library establishement, choosing of postive clones.
 
 
 
