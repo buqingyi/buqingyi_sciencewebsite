@@ -112,15 +112,15 @@ in autumn 2021. Presentation at the 31st Annual Meeting of the Society for Virol
 37.	B. Yi (presenting author) et al.: The pax-3 gene is involved in vulva formation in Pristionchus pacificus and is a target of the Hox gene lin-39. Presentation at the 16th International C. elegans Meeting, University of California, Los Angeles, California, June 27 – July 1, 2008.
 
 ## BOOK CHAPTERS:
-36.	B. Yi, A. Choukèr. The immune system and man-environment interaction: A general understanding. In: The Immune System in Space – Are We Prepared? Edited by A. Choukèr and O. Ullrich. Springer 2016.
+38.	B. Yi, A. Choukèr. The immune system and man-environment interaction: A general understanding. In: The Immune System in Space – Are We Prepared? Edited by A. Choukèr and O. Ullrich. Springer 2016.
 
-37.	B. Yi, S. Tauber, O. Ullrich, A. Choukèr. Immune dysfunction in space - an integrative view. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
+39.	B. Yi, S. Tauber, O. Ullrich, A. Choukèr. Immune dysfunction in space - an integrative view. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
 
-38.	S. Tauber, B. Yi, A. Choukèr, O. Ullrich. Use of in vitro cell culture models to understand the cellular and molecular basis of immune dysfunction during spaceflight. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
+40.	S. Tauber, B. Yi, A. Choukèr, O. Ullrich. Use of in vitro cell culture models to understand the cellular and molecular basis of immune dysfunction during spaceflight. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
 
-39.	B. Yi, M. Thiel, A. Choukèr. The immune system in evolution. In: The Immune System in Space – Are We Prepared? Edited by A. Choukèr and O. Ullrich. Springer 2016.
+41.	B. Yi, M. Thiel, A. Choukèr. The immune system in evolution. In: The Immune System in Space – Are We Prepared? Edited by A. Choukèr and O. Ullrich. Springer 2016.
 
-40.	N. R. Pellis, A. Choukèr, B. Yi, S. Tauber, O. Ullrich, A. Sundaresan. Overview and translational impact of space cell biology research. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
+42.	N. R. Pellis, A. Choukèr, B. Yi, S. Tauber, O. Ullrich, A. Sundaresan. Overview and translational impact of space cell biology research. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
 
 
 
