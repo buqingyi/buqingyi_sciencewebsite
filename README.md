@@ -33,7 +33,9 @@
 
 **4. Molecular identification of Pseudomonas aeruginosa epidemic strains in clinical samples to prevent nosocomial infections**
 
-**5. Collabration projects with other teams by providing analyses with well-established methods, such as microbiome investigation, functional genomics analysis or deep sequencing data analysis**
+**5. Antibiotic resistance of pathogenic and commensal bacteria in airway microbiome (to identify the overall effects of antibiotics treatment on human microbiome)**
+
+**6. Collabration projects with other teams by providing analyses with well-established methods, such as microbiome investigation, functional genomics analysis or deep sequencing data analysis**
 
 ## Methods
 **Both experimental approaches (e.g. Microbiology, Immunology methods) and computational biology/bioinformatics approaches are applied**.
