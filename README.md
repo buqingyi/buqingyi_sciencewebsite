@@ -27,7 +27,7 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 
 **in vitro models**: BEAS-2B (Human bronchial epithelial cell line); BLaER1 (Human monocyte cell line); CFBE41o- (Human CF Bronchial Epithelial Cell Line)
 
-**Microbiolgy methods**: bacterial growth monitoring; pathogenicity assay; metabolism assay; antibiotics resistance measurement; infection experiment; and others.
+**Microbiolgy/Virology methods**: growth rate assay; pathogenicity assay; metabolism assay; antibiotics resistance measurement; infection experiment; antibody neutrolization assay, and others.
 
 **Immunology methods**: FACS analysis; qPCR; bead-based protein multiplex assay; ELISA; and others.
 
