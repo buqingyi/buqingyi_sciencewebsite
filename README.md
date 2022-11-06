@@ -24,6 +24,7 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 
 ### Experimental approaches:
 **ex vivo organoid: precision cut lung sclices (Mice)**
+
 **in vitro models: BEAS-2B (Human bronchial epithelial cell line); BLaER1 (Human monocyte cell line); CFBE41o- (Human CF Bronchial Epithelial Cell Line)** 
 
 
