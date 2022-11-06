@@ -9,19 +9,19 @@ Fiedlerstr. 42, 01307 Dresden,
 Tel: 0351 458 6440,
 buqing.yi@uniklinikum-dresden.de
 ## Scientific focus
-Host-pathogen-commensal interaction
+**Host-pathogen-commensal interaction**
 
-Cystic fibrosis
+**Cystic fibrosis**
 
-Multi-omics data analysis
+**Multi-omics data analysis**
 
-Functional genomics
+**Functional genomics**
 
-Microbiome
+**Microbiome**
 
-Virus genomic epidemiology and virus mutation surveillance
+**Virus genomic epidemiology and virus mutation surveillance**
 
-Immunology
+**Immunology**
 
 
 
