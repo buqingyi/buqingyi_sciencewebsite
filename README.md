@@ -8,9 +8,9 @@ Technische Universität Dresden,
 Fiedlerstr. 42, 01307 Dresden,
 buqing.yi@uniklinikum-dresden.de
 ## Scientific focus
-**Host-pathogen-commensal interaction**; **Cystic fibrosis**; **Multi-omics data analysis**; 
+**Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Immunology**;**Cystic fibrosis**;
 
-**Functional genomics**; **Microbiome**; **Immunology**
+**Functional genomics**; **Microbiome**; **Immunology**; **Multi-omics data analysis**; 
 
 **Virus genomic epidemiology and virus mutation surveillance**
 ## Currently running projects
@@ -19,8 +19,14 @@ buqing.yi@uniklinikum-dresden.de
 **2. Emerging pathogens e.g. SARS-CoV-2 genomic epidemiology and variants surveillance to precisely evaluate pandemic or post-pandemic conditions** **(supported by University Hospital and Medical Faculty Carl-Gustav-Carus)**
 
 **3. Collabration projects with other teams by providing analyses with well-established methods, such as microbiome investigation, functional genomics analysis or deep sequencing data analysis**
-## Funding sources
-**(supported by funding from DFG and Mukoviszidose e.V.)**
+## Methods
+Both experimental approaches (e.g. Microbiology, Immunology methods) and computational biology/bioinformatics approaches are applied.
+
+### Experimental approaches:
+**ex vivo organoid: precision cut lung sclices (Mice)**
+**in vitro models: BEAS-2B (Human bronchial epithelial cell line); BLaER1 (Human monocyte cell line); CFBE41o- (Human CF Bronchial Epithelial Cell Line)** 
+
+
 
 
 
