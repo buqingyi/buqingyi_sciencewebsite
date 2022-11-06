@@ -54,15 +54,15 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 
 **Deep sequencing data analysis for CRISPR experiment**, e.g. library establishement, choosing of postive clones.
 ## Professional Memberships or Honorary Offices
-•	Member of the European Cystic Fibrosis Society. 
+•	**Member of the European Cystic Fibrosis Society**. 
 
-•	Member of the Federation of European Microbiological Societies (FEMS).
+•	**Member of the Federation of European Microbiological Societies (FEMS)**.
 
-•	Member of the International Union of Microbiological Societies (IUMS).
+•	**Member of the International Union of Microbiological Societies (IUMS)**.
 
-•	Member of the German Society for Hygiene and Microbiology (DGHM).
+•	**Member of the German Society for Hygiene and Microbiology (DGHM)**.
 
-•	Reviewer of scientific journals (e.g. Microbiology Spectrum (American society of Microbiology), PLOS One, multiple Springer Nature journals, Infection and Immunity (American society of Microbiology))
+•	**Reviewer of scientific journals (e.g. Microbiology Spectrum (American society of Microbiology), multiple Springer Nature journals, Infection and Immunity (American society of Microbiology))**
 ## Publication overview (total impact factors of first and last author papers:129,2; h-index:11):
 1.	ORCID: https://orcid.org/0000-0003-4820-2560
 2.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
