@@ -13,6 +13,10 @@ buqing.yi@uniklinikum-dresden.de
 **Functional genomics**; **Microbiome**; **Multi-omics data analysis**; 
 
 **Virus genomic epidemiology and virus mutation surveillance**
+## Degrees
+•	 Ph.D. graduation at the University of Tuebingen, Germany.
+
+•	 Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany.
 ## Currently running projects
 **1. Investigation of commensal bacteria in controlling Pseudomonas aeruginosa airway infection** **(supported by funding from DFG and Mukoviszidose e.V.)**
 
@@ -45,10 +49,7 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 **Multi-omics data analysis**, incorporating omics data from diverse laysers, such as transcriptome, proteome, metabolome.
 
 **Deep sequencing data analysis for CRISPR experiment**, e.g. library establishement, choosing of postive clones.
-## Degrees
-•	 Ph.D. graduation at the University of Tuebingen, Germany.
-•	 Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany.
-•	 M.Sc. in Biochemistry and Molecular Biology, Nankai University, Department of Biochemistry and Molecular Biology, Tianjin, China.
+
 
 
 
