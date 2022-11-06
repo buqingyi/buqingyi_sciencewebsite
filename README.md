@@ -10,7 +10,9 @@ Tel: 0351 458 6440,
 buqing.yi@uniklinikum-dresden.de
 ## Scientific focus
 **Host-pathogen-commensal interaction**; **Cystic fibrosis**; **Multi-omics data analysis**; 
+
 **Functional genomics**; **Microbiome**; **Immunology**
+
 **Virus genomic epidemiology and virus mutation surveillance**
 
 
