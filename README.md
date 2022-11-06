@@ -15,7 +15,7 @@ buqing.yi@uniklinikum-dresden.de
 
 **Virus genomic epidemiology and virus mutation surveillance**
 ## Currently running projects
-“Investigation of commensal bacteria in controlling Pseudomonas aeruginosa airway infection” (supported by fundings from DFG and Mukoviszidose e.V.)
+**Investigation of commensal bacteria in controlling Pseudomonas aeruginosa airway infection** **(supported by fundings from DFG and Mukoviszidose e.V.)**
 
 
 
