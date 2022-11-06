@@ -31,7 +31,9 @@
 
 **3. Comparative analysis of Streptococcus pathogens and commensals with a combination of computational biology and microbiology approaches to identify pathogen-related genetic elements**
 
-**4. Collabration projects with other teams by providing analyses with well-established methods, such as microbiome investigation, functional genomics analysis or deep sequencing data analysis**
+**4. Molecular identification of P.aeruginosa epidemic strains in clinical samples to prevent nosocomial infections 
+
+**5. Collabration projects with other teams by providing analyses with well-established methods, such as microbiome investigation, functional genomics analysis or deep sequencing data analysis**
 
 ## Methods
 **Both experimental approaches (e.g. Microbiology, Immunology methods) and computational biology/bioinformatics approaches are applied**.
