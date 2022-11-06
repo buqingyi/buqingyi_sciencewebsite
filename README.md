@@ -42,7 +42,7 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 
 **Phylogeographic analysis and phylodynamic analysis** to investigate the spreading of certain pathogen, eg. bacterium, virus, fungus.
 
-**Multi-omics data analysis**,incorporating omics data from diverse laysers, such as transcriptome, proteome, metabolome.
+**Multi-omics data analysis**, incorporating omics data from diverse laysers, such as transcriptome, proteome, metabolome.
 
 **Deep sequencing data analysis for CRISPR experiment**, e.g. library establishement, choosing of postive clones.
 
