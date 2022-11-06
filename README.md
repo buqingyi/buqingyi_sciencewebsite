@@ -45,6 +45,11 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 **Multi-omics data analysis**, incorporating omics data from diverse laysers, such as transcriptome, proteome, metabolome.
 
 **Deep sequencing data analysis for CRISPR experiment**, e.g. library establishement, choosing of postive clones.
+## Degrees
+•	 Ph.D. graduation at the University of Tuebingen, Germany.
+•	 Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany.
+•	 M.Sc. in Biochemistry and Molecular Biology, Nankai University, Department of Biochemistry and Molecular Biology, Tianjin, China.
+
 
 
 
