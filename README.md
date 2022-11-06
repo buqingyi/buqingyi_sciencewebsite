@@ -2,33 +2,37 @@
 ![Buqing Yi](https://user-images.githubusercontent.com/93262080/200172685-a16c256e-7a0f-4dae-be2c-272db4e979b9.jpeg)
 ## Dr. rer. nat. Buqing Yi
 
-**Senior Researcher**
+**Senior Researcher at the Institute of Medical Microbiology and Virology**,
 
-Institute of Medical Microbiology and Virology,
+**University Hospital and Medical Faculty Carl-Gustav-Carus**, 
 
-University Hospital and Medical Faculty Carl-Gustav-Carus, 
+**Technische Universität Dresden, Fiedlerstr. 42, 01307 Dresden** 
 
-Technische Universität Dresden, Fiedlerstr. 42, 01307 Dresden, 
+**buqing.yi@uniklinikum-dresden.de** 
 
-buqing.yi@uniklinikum-dresden.de
+**bootsing.yi@gmail.com**
+
 ## Scientific focus
 **Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Cystic fibrosis**; **Immunology**;
 
 **Functional genomics**; **Microbiome**; **Multi-omics data analysis**; 
 
 **Virus genomic epidemiology and virus mutation surveillance**
-## Degrees
-•	 **Ph.D. graduation at the University of Tuebingen, Germany**.
 
-•	 **Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany**.
+## Degrees
+**Ph.D. graduation at the University of Tuebingen, Germany**.
+
+**Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany**.
+
 ## Currently running projects
 **1. Investigation of commensal bacteria in controlling Pseudomonas aeruginosa airway infection** **(supported by funding from DFG and Mukoviszidose e.V.)**
 
 **2. Emerging pathogens e.g. SARS-CoV-2 genomic epidemiology and variants surveillance to precisely evaluate pandemic or post-pandemic conditions** **(supported by University Hospital and Medical Faculty Carl-Gustav-Carus)**
 
 **3. Collabration projects with other teams by providing analyses with well-established methods, such as microbiome investigation, functional genomics analysis or deep sequencing data analysis**
+
 ## Methods
-Both experimental approaches (e.g. Microbiology, Immunology methods) and computational biology/bioinformatics approaches are applied.
+**Both experimental approaches (e.g. Microbiology, Immunology methods) and computational biology/bioinformatics approaches are applied**.
 
 ### Experimental approaches (both Mice and Human cells are used in the investigations):
 **ex vivo organoid**: precision cut lung sclices (Mice)
@@ -53,6 +57,7 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 **Multi-omics data analysis**, incorporating omics data from diverse laysers, such as transcriptome, proteome, metabolome.
 
 **Deep sequencing data analysis for CRISPR experiment**, e.g. library establishement, choosing of postive clones.
+
 ## Professional Memberships or Honorary Offices
 •	**Member of the European Cystic Fibrosis Society**. 
 
@@ -63,12 +68,14 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 •	**Member of the German Society for Hygiene and Microbiology (DGHM)**.
 
 •	**Reviewer of scientific journals (e.g. Microbiology Spectrum (American society of Microbiology), multiple Springer Nature journals, Infection and Immunity (American society of Microbiology))**
+
 ## Publication overview:
 1.	ORCID: https://orcid.org/0000-0003-4820-2560
 2.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
 3.	Google Scholar: https://scholar.google.ch/citations?user=06ENkiMAAAAJ&hl=en
 
 ### (Total impact factors of first and last author papers:129; h-index:11)
+
 ## Publication list:
 1.	M. Stadtmüller, A. Laubner, F. Rost, S. Winkler, E. Patrasová, L. Šimůnková, S. Reinhardt, J. Beil, A. H. Dalpke, B. Yi (corresponding author) (2022). Emergence and spread of a sub-lineage of SARS-CoV-2 Alpha variant B.1.1.7 in Europe, and with further evolution of spike mutation accumulations shared with the Beta and Gamma variants. Virus Evolution. DOI: 10.1093/ve/veac010. (Impact Factor: 5.61)
 2.	A. Tony-Odigie, L. Wilke, S. Boutin, A. H. Dalpke, B. Yi (corresponding author) (2022). Commensal bacteria in the cystic fibrosis airway microbiome reduce P. aeruginosa induced inflammation. Frontiers in Cellular and Infection Microbiology. DOI: 10.3389/fcimb.2022.824101. (Impact Factor: 6.07)
