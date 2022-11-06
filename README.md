@@ -53,6 +53,16 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 **Multi-omics data analysis**, incorporating omics data from diverse laysers, such as transcriptome, proteome, metabolome.
 
 **Deep sequencing data analysis for CRISPR experiment**, e.g. library establishement, choosing of postive clones.
+## Professional Memberships or Honorary Offices
+•	Member of the European Cystic Fibrosis Society. 
+
+•	Member of the Federation of European Microbiological Societies (FEMS).
+
+•	Member of the International Union of Microbiological Societies (IUMS).
+
+•	Member of the German Society for Hygiene and Microbiology (DGHM).
+
+•	Reviewer of scientific journals (e.g. Microbiology Spectrum (American society of Microbiology), PLOS One, multiple Springer Nature journals, Infection and Immunity (American society of Microbiology))
 ## Publication overview (total impact factors of first and last author papers:129,2; h-index:11):
 1.	ORCID: https://orcid.org/0000-0003-4820-2560
 2.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
@@ -107,13 +117,6 @@ BOOK CHAPTERS:
 
 40.	N. R. Pellis, A. Choukèr, B. Yi, S. Tauber, O. Ullrich, A. Sundaresan. Overview and translational impact of space cell biology research. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
 
-
-## Professional Memberships or Honorary Offices
-•	Member of the European Cystic Fibrosis Society. 
-•	Member of the Federation of European Microbiological Societies (FEMS).
-•	Member of the International Union of Microbiological Societies (IUMS).
-•	Member of the German Society for Hygiene and Microbiology (DGHM).
-•	Reviewer of scientific journals (e.g. Microbiology Spectrum (American society of Microbiology), PLOS One, multiple Springer Nature journals, Infection and Immunity (American society of Microbiology))
 
 
 
