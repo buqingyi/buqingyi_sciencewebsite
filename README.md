@@ -22,7 +22,7 @@ buqing.yi@uniklinikum-dresden.de
 ## Methods
 Both experimental approaches (e.g. Microbiology, Immunology methods) and computational biology/bioinformatics approaches are applied.
 
-### Experimental approaches:
+### Experimental approaches (both Mice and Human cells are used in the investigations):
 **ex vivo organoid**: precision cut lung sclices (Mice)
 
 **in vitro models**: BEAS-2B (Human bronchial epithelial cell line); BLaER1 (Human monocyte cell line); CFBE41o- (Human CF Bronchial Epithelial Cell Line)
