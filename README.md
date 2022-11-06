@@ -10,9 +10,9 @@
 
 **Virus genomic epidemiology and virus mutation surveillance**
 ## Degrees
-•	 Ph.D. graduation at the University of Tuebingen, Germany.
+•	 **Ph.D. graduation at the University of Tuebingen, Germany**.
 
-•	 Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany.
+•	 **Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany**.
 ## Currently running projects
 **1. Investigation of commensal bacteria in controlling Pseudomonas aeruginosa airway infection** **(supported by funding from DFG and Mukoviszidose e.V.)**
 
