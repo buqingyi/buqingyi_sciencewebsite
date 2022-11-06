@@ -67,6 +67,7 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 1.	ORCID: https://orcid.org/0000-0003-4820-2560
 2.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
 3.	Google Scholar: https://scholar.google.ch/citations?user=06ENkiMAAAAJ&hl=en
+
 **Total impact factors of first and last author papers:129; h-index:11**
 ## Publication list:
 1.	M. Stadtmüller, A. Laubner, F. Rost, S. Winkler, E. Patrasová, L. Šimůnková, S. Reinhardt, J. Beil, A. H. Dalpke, B. Yi (corresponding author) (2022). Emergence and spread of a sub-lineage of SARS-CoV-2 Alpha variant B.1.1.7 in Europe, and with further evolution of spike mutation accumulations shared with the Beta and Gamma variants. Virus Evolution. DOI: 10.1093/ve/veac010. (Impact Factor: 5.61)
