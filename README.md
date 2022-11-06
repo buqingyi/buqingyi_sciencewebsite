@@ -6,7 +6,6 @@ Institute of Medical Microbiology and Virology,
 University Hospital and Medical Faculty Carl-Gustav-Carus,
 Technische Universität Dresden,
 Fiedlerstr. 42, 01307 Dresden,
-Tel: 0351 458 6440,
 buqing.yi@uniklinikum-dresden.de
 ## Scientific focus
 **Host-pathogen-commensal interaction**; **Cystic fibrosis**; **Multi-omics data analysis**; 
