@@ -8,9 +8,9 @@ Technische Universität Dresden,
 Fiedlerstr. 42, 01307 Dresden,
 buqing.yi@uniklinikum-dresden.de
 ## Scientific focus
-**Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Immunology**;**Cystic fibrosis**;
+**Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Cystic fibrosis**; **Immunology**;
 
-**Functional genomics**; **Microbiome**; **Immunology**; **Multi-omics data analysis**; 
+**Functional genomics**; **Microbiome**; **Multi-omics data analysis**; 
 
 **Virus genomic epidemiology and virus mutation surveillance**
 ## Currently running projects
