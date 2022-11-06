@@ -27,9 +27,9 @@ Both experimental approaches (e.g. Microbiology, Immunology methods) and computa
 
 **in vitro models**: BEAS-2B (Human bronchial epithelial cell line); BLaER1 (Human monocyte cell line); CFBE41o- (Human CF Bronchial Epithelial Cell Line)
 
-**Commonly used microbiolgy approaches**: bacterial growth monitoring; pathogenicity assay; metabolism assay; antibiotics resistance measurement; infection experiment; and others.
+**Microbiolgy methods**: bacterial growth monitoring; pathogenicity assay; metabolism assay; antibiotics resistance measurement; infection experiment; and others.
 
-**Commonly used immunology approaches**: FACS analysis; qPCR; bead-based protein multiplex assay; ELISA; and others.
+**Immunology methods**: FACS analysis; qPCR; bead-based protein multiplex assay; ELISA; and others.
 
 ### Computational approaches:
 **Functional genomic analysis** (in particular with a focus on bacterium and virus)
