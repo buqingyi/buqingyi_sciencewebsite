@@ -14,6 +14,10 @@ buqing.yi@uniklinikum-dresden.de
 **Functional genomics**; **Microbiome**; **Immunology**
 
 **Virus genomic epidemiology and virus mutation surveillance**
+## Currently running projects
+“Investigation of commensal bacteria in controlling Pseudomonas aeruginosa airway infection” (supported by fundings from DFG and Mukoviszidose e.V.)
+
+
 
 
 
