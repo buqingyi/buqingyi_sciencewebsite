@@ -47,14 +47,14 @@
 
 **Microbiolgy/Virology methods**: growth rate assay; pathogenicity assay; metabolism assay; antibiotics resistance measurement; infection experiment; antibody neutrolization assay, and others.
 
-**Immunology methods**: FACS analysis; qPCR; bead-based protein multiplex assay; ELISA; and others.
+**Immunology methods**: FACS analysis; qPCR; bead-based protein multiplex assay; ELISA, and others.
 
 ### Computational approaches:
 **Functional genomic analysis** (in particular with a focus on bacterium and virus)
 
 **Microbiome investigation** (experiment design, sequencing, and data analysis and interpretation)
 
-**Transcriptome analysis** (differntial gene expression analysis, function enrichment analysis, master reguloar analysis, and other custimized anylysis based on specific reseach goals) - in Human,Mouse,and Bacterium
+**Transcriptome analysis** (differntial gene expression analysis, function enrichment analysis, master reguloar analysis, and other custimized analysis based on specific reseach goals) - in Human,Mouse,and Bacterium
 
 **Phylogenetic analysis** to decipher evolution relationship of differnet organisms, e.g. bacterium, virus, fungus
 
