@@ -80,9 +80,11 @@
 2.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
 3.	Google Scholar: https://scholar.google.ch/citations?user=06ENkiMAAAAJ&hl=en
 
-### (Total impact factors of first and last author papers: **129**; h-index: **11**)
+### Number of first and last author papers: 15
+### Total impact factors of first and last author papers: 136
+### h-index: 11
 
-## Publication list:
+## Selected Publications:
 1.  B. Yi (corresponding author), A. Laubner, M. Stadtmüller, E. Patrasová, L. Šimůnková, F. Rost, S. Winkler, S. Reinhardt, A. Dahl, A. H. Dalpke (2022). Investigating the cause of a 2021 winter wave of COVID-19 in a border region in Eastern Germany: a mixed-methods study, August to November 2021. *medRxiv*. DOI: 10.1101/2022.10.15.22281123.
 2.  C. M. Munz, H. Kreher, A. Erdbeer, S. Richter, D. Westphal, B. Yi, R. Behrendt, N. Stanke, F. Lindel, D. Lindemann (2022). Efficient production of inhibitor-free foamy virus glycoprotein-containing retroviral vectors by proteoglycan-deficient packaging cells. *Molecular Therapy-Methods & Clinical Development*. DOI: 10.1016/j.omtm.2022.07.004. (Impact factor: 5.85)
 1.	M. Stadtmüller, A. Laubner, F. Rost, S. Winkler, E. Patrasová, L. Šimůnková, S. Reinhardt, J. Beil, A. H. Dalpke, B. Yi (corresponding author) (2022). Emergence and spread of a sub-lineage of SARS-CoV-2 Alpha variant B.1.1.7 in Europe, and with further evolution of spike mutation accumulations shared with the Beta and Gamma variants. *Virus Evolution*. DOI: 10.1093/ve/veac010. (Impact Factor: 5.61)
