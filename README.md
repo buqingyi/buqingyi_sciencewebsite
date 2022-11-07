@@ -83,6 +83,8 @@
 ### (Total impact factors of first and last author papers: **129**; h-index: **11**)
 
 ## Publication list:
+1.  B. Yi (corresponding author), A. Laubner, M. Stadtmüller, E. Patrasová, L. Šimůnková, F. Rost, S. Winkler, S. Reinhardt, A. Dahl, A. H. Dalpke (2022). Investigating the cause of a 2021 winter wave of COVID-19 in a border region in Eastern Germany: a mixed-methods study, August to November 2021. medRxiv. DOI: 10.1101/2022.10.15.22281123.
+2.  C. M. Munz, H. Kreher, A. Erdbeer, S. Richter, D. Westphal, B. Yi, R. Behrendt, N. Stanke, F. Lindel, D. Lindemann (2022). Efficient production of inhibitor-free foamy virus glycoprotein-containing retroviral vectors by proteoglycan-deficient packaging cells. Molecular Therapy-Methods & Clinical Development. DOI: 10.1016/j.omtm.2022.07.004. (Impact factor: 5.85)
 1.	M. Stadtmüller, A. Laubner, F. Rost, S. Winkler, E. Patrasová, L. Šimůnková, S. Reinhardt, J. Beil, A. H. Dalpke, B. Yi (corresponding author) (2022). Emergence and spread of a sub-lineage of SARS-CoV-2 Alpha variant B.1.1.7 in Europe, and with further evolution of spike mutation accumulations shared with the Beta and Gamma variants. Virus Evolution. DOI: 10.1093/ve/veac010. (Impact Factor: 5.61)
 2.	A. Tony-Odigie, L. Wilke, S. Boutin, A. H. Dalpke, B. Yi (corresponding author) (2022). Commensal bacteria in the cystic fibrosis airway microbiome reduce P. aeruginosa induced inflammation. Frontiers in Cellular and Infection Microbiology. DOI: 10.3389/fcimb.2022.824101. (Impact Factor: 6.07)
 3.	B. Yi (corresponding author), A. H. Dalpke (2022). Revisiting the intrageneric structure of the genus Pseudomonas with complete whole genome sequence information: Insights into diversity and pathogen-related generic determinants. Infection, Genetics and Evolution. DOI: 10.1016/j.meegid.2021.105183. (Impact Factor: 4.40)
@@ -103,8 +105,7 @@
 18.	B. Yi, RJ. Sommer (2007). The pax-3 gene is involved in vulva formation in Pristionchus pacificus and is a target of the Hox gene lin-39. Development. 134(17):3111-9; DOI: 10.1242/dev.008375 (Impact Factor: 6.86). 
 
 ## Selected presentations at national or international conferences: 
-19. B. Yi (presenting author), et al.: Investigation of the sources behind the high COVID-19 incidence rates in Saxony, August to November 2021: insights into the potential future preventive strategies. Presentation at the 74. Jahrestagung der Deutschen Gesellschaft für Hygiene und Mikrobiologie - DGHM Kongress 2022, Berlin, September, 2022.
-20. B. Yi (presenting author), et al.: Sars-CoV-2 community transmissions in a border region between Germany and the Czech Republic
+21. B. Yi (presenting author), et al.: Sars-CoV-2 community transmissions in a border region between Germany and the Czech Republic
 in autumn 2021. Presentation at the 31st Annual Meeting of the Society for Virology, virtual meeting, March, 2022.
 21.	B. Yi (presenting author), et al.: Emergence and spread of a SARS-CoV-2 B.1.1.7 sub-lineage in Europe. Presentation at the 7th JOINT CONFERENCE OF DGHM & VAAM, virtual meeting, September 12-14, 2021.
 22.	B. Yi (presenting author) et al.: The impact of Streptococcus on immune response triggered by Pseudomonas aeruginosa infection in the context of cystic fibrosis. Presentation at the 7th JOINT CONFERENCE OF DGHM & VAAM, virtual meeting, September 12-14, 2021. 
@@ -125,7 +126,7 @@ in autumn 2021. Presentation at the 31st Annual Meeting of the Society for Virol
 37.	B. Yi (presenting author) et al.: The pax-3 gene is involved in vulva formation in Pristionchus pacificus and is a target of the Hox gene lin-39. Presentation at the 16th International C. elegans Meeting, University of California, Los Angeles, California, June 27 – July 1, 2008.
 
 ## BOOK CHAPTERS:
-38.	B. Yi, A. Choukèr. The immune system and man-environment interaction: A general understanding. In: The Immune System in Space – Are We Prepared? Edited by A. Choukèr and O. Ullrich. Springer 2016.
+39.	B. Yi, A. Choukèr. The immune system and man-environment interaction: A general understanding. In: The Immune System in Space – Are We Prepared? Edited by A. Choukèr and O. Ullrich. Springer 2016.
 
 39.	B. Yi, S. Tauber, O. Ullrich, A. Choukèr. Immune dysfunction in space - an integrative view. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
 
