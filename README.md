@@ -54,7 +54,7 @@
 
 **Microbiome investigation** (experiment design, sequencing, and data analysis and interpretation)
 
-**Transcriptome analysis** (differntial gene expression analysis, function enrichment analysis, master reguloar analysis, and other custimized analysis based on specific reseach goals) - in Human,Mouse,and Bacterium
+**Transcriptome analysis** (differntial gene expression analysis, function enrichment analysis, master regulator analysis, and other custimized analysis based on specific reseach goals) - in Human,Mouse,and Bacterium
 
 **Phylogenetic analysis** to decipher evolution relationship of differnet organisms, e.g. bacterium, virus, fungus
 
