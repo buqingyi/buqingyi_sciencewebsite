@@ -47,7 +47,7 @@
 
 **Microbiolgy/Virology methods**: growth rate assay; pathogenicity assay; metabolism assay; antibiotics resistance measurement; infection experiment; antibody neutrolization assay, and others.
 
-**Immunology methods**: FACS analysis; qPCR; bead-based protein multiplex assay; ELISA, and others.
+**Immunology methods**: multicolor flow cytometry; FACS sorting; qPCR; bead-based protein multiplex assay; ELISA, and others.
 
 ### Computational approaches:
 **Functional genomic analysis** (in particular with a focus on bacterium and virus)
