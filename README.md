@@ -15,14 +15,14 @@
 ## Scientific focus
 **Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Cystic fibrosis**; **Immunology**;
 
-**Functional genomics**; **Microbiome**; **Multi-omics data analysis**; 
+**Functional genomics**; **Microbiome**; **NGS**; **Multi-omics data analysis**; 
 
 **Virus genomic epidemiology and virus mutation surveillance**
 
 ## Degrees
 **Ph.D. graduation at the University of Tuebingen, Germany**.
 
-**Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany**.
+**Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany, with focus on addressing signaling pathway questions about cell fate specification with a combination of molecular biology, genetics, next generation sequencing (NGS) and bioinformatics approaches**
 
 ## Current running projects
 **1. Investigation of host-pathogen-commensal interaction in human lung diseases to develop novel therapies for inflammation and infection control** **(supported by funding from DFG and Mukoviszidose e.V.)**
