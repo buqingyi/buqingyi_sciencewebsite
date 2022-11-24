@@ -17,14 +17,14 @@
 ## Scientific focus
 **Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Cystic fibrosis**; **Immunology**;
 
-**Functional genomics**; **Microbiome**; **NGS**; **Multi-omics data analysis**; 
+**Functional genomics**; **Microbiome**; **Multi-omics data analysis**; **Next-Generation Sequencing (NGS)**; 
 
 **Virus genomic epidemiology and virus mutation surveillance**
 
 ## Degrees
 **Ph.D. graduation at the University of Tuebingen, Germany**.
 
-**Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany, which was carried out through a combination of molecular biology, genetics, next generation sequencing (NGS) and bioinformatics approaches**.
+**Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany, which was carried out through a combination of molecular biology, genetics, NGS and bioinformatics approaches**.
 
 ## Current running projects
 **1. Investigation of host-pathogen-commensal interaction in human lung diseases to develop novel therapies for inflammation and infection control** **(supported by funding from DFG and Mukoviszidose e.V.)**
@@ -47,9 +47,9 @@
 
 **in vitro models**: BEAS-2B (Human bronchial epithelial cell line); BLaER1 (Human monocyte cell line); CFBE41o- (Human CF Bronchial Epithelial Cell Line)
 
-**Microbiolgy/Virology methods**: growth rate assay; pathogenicity assay; metabolism assay; antibiotics resistance measurement; infection experiment; antibody neutrolization assay, and others.
+**Microbiolgy/Virology methods**: growth rate assay; pathogenicity assay; metabolism assay; antibiotics resistance measurement; infection experiment;  antibody neutrolization assay, and others.
 
-**Immunology methods**: multicolor flow cytometry; FACS sorting; qPCR; bead-based protein multiplex assay; ELISA, and others.
+**Immunology methods**: multicolor flow cytometry; FACS sorting; qPCR; bead-based protein multiplex assay; ELISA; NGS; Single-cell sequencing, and others.
 
 ### Computational approaches:
 **Functional genomic analysis** (in particular with a focus on bacterium and virus)
