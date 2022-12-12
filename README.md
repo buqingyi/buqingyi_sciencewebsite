@@ -78,9 +78,8 @@
 •	**Reviewer of scientific journals (e.g. Microbiology Spectrum (American society of Microbiology), multiple Springer Nature journals, Infection and Immunity (American society of Microbiology))**
 
 ## Publication overview:
-1.	ORCID: https://orcid.org/0000-0003-4820-2560
-2.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
-3.	Google Scholar: https://scholar.google.ch/citations?user=06ENkiMAAAAJ&hl=en
+1.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
+2.	Google Scholar: https://scholar.google.ch/citations?user=06ENkiMAAAAJ&hl=en
 
 ### Number of first and last author papers: 15
 ### Total impact factors of first and last author papers: 136
