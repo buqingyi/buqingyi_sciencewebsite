@@ -107,6 +107,7 @@
 18.	M. Feuerecker, W. Mayer, I. Kaufmann, M. Gruber, F. Muckenthaler, **B. Yi**, AP. Salam, J. Briegel, G. Schelling, M. Thiel, A. Choukèr (2013). A corticoid-sensitive cytokine release assay for monitoring stress-mediated immune modulation. *Clinical & Experimental Immunology*. 172(2):290-9; DOI: 10.1111/cei.12049. (Impact Factor: 5.73)
 19.	**B. Yi**, D. Bumbarger, RJ. Sommer (2009).  Genetic evidence for pax-3 function in myogenesis in the nematode Pristionchus pacificus. *Evolution & Development*. 11(6):669-79; DOI: 10.1111/j.1525-142X.2009.00374.x. (Impact Factor: 2.84)
 20.	**B. Yi**, RJ. Sommer (2007). The pax-3 gene is involved in vulva formation in Pristionchus pacificus and is a target of the Hox gene lin-39. *Development*. 134(17):3111-9; DOI: 10.1242/dev.008375 (Impact Factor: 6.86). 
+21.	Z. Jiang, R. Li, J. Xi, **B.Yi** (1999). Determination of trace amounts of manganese by β-cyclodextrin polymer solid phase spectrophotometry using 2-(5-bromo-2-pyridylazo)-5-diethylaminophenol. *Analytica chimica acta*. 392(2-3):247-53; DOI: 10.1016/S0003-2670(99)00175-0 (Impact Factor: 6.91)
 
 ## Selected presentations at national or international conferences: 
 21. B. Yi (presenting author), et al.: Sars-CoV-2 community transmissions in a border region between Germany and the Czech Republic
