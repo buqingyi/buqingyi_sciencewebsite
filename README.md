@@ -83,8 +83,8 @@
 1.	Researchgate: https://www.researchgate.net/profile/Buqing-Yi
 2.	Google Scholar: https://scholar.google.ch/citations?user=06ENkiMAAAAJ&hl=en
 
-### Number of first and last author papers: 15
-### Total impact factors of first and last author papers: 136
+### Number of first and last author papers: 17
+### Total impact factors of first and last author papers: 141
 ### h-index: 11
 
 ## Selected Publications:
