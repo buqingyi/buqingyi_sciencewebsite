@@ -144,3 +144,4 @@ in autumn 2021. Presentation at the 31st Annual Meeting of the Society for Virol
 46.	B. Yi, M. Thiel, A. Choukèr. The immune system in evolution. In: The Immune System in Space – Are We Prepared? Edited by A. Choukèr and O. Ullrich. Springer 2016.
 
 47.	N. R. Pellis, A. Choukèr, B. Yi, S. Tauber, O. Ullrich, A. Sundaresan. Overview and translational impact of space cell biology research. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
+<meta name="google-site-verification" content="odSydHMwF6hqQ4P6JfPpPOewam5xHp6vU2FvjLqTSgM" />
