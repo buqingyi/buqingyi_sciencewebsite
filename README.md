@@ -6,9 +6,7 @@
 
 **University Hospital and Medical Faculty Carl-Gustav-Carus**, 
 
-**Technische Universität Dresden, Fiedlerstr. 42, 01307 Dresden** 
-
-**buqing.yi@uniklinikum-dresden.de** 
+**Technische Universität Dresden, Fiedlerstr. 42, 01307 Dresden**  
 
 **buqing.yi@tu-dresden.de**
 
