@@ -24,7 +24,7 @@
 ## Degrees
 **Ph.D. graduation at the University of Tuebingen, Germany**.
 
-**Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany, which was carried out through a combination of molecular biology, genetics, NGS and bioinformatics approaches**.
+**Ph.D thesis in Genetics (Evolution and Development), Max-Planck  Institute for Developmental Biology, Tuebingen, Germany, which was carried out through a combination of molecular biology, genetics, genomics, biochemistry and bioinformatics approaches**.
 
 ## Current running projects
 **1. Investigation of host-pathogen-commensal interaction in human lung diseases to develop novel therapies for inflammation and infection control** **(supported by funding from DFG and Mukoviszidose e.V.)**
