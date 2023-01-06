@@ -4,7 +4,7 @@
 
 **Senior Researcher/Principle Investigator at the Institute of Medical Microbiology and Virology**,
 
-**University Hospital and Medical Faculty Carl-Gustav-Carus**, 
+**Universitätsklinikum Carl Gustav Carus Dresden**, 
 
 **Technische Universität Dresden, Fiedlerstr. 42, 01307 Dresden**  
 
