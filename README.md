@@ -14,6 +14,8 @@
 
 [Website](https://genomesurveillance.github.io/buqingyi_sciencewebsite/)/ [LinkedIn](https://www.linkedin.com/in/buqing-yi-85b3b050/)/ [GitHub](https://github.com/genomesurveillance)/ [Twitter](https://twitter.com/Buqing_Melody)
 
+Funding source: [Deutsche Forschungsgemeinschaft (DFG) - Project number 458912928](https://gepris.dfg.de/gepris/person/416344378)
+
 ## Scientific focus
 **Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Cystic fibrosis**; **Immunology**;
 
