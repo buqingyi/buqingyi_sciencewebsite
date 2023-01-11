@@ -19,7 +19,7 @@ Funding source: [Deutsche Forschungsgemeinschaft (DFG) - Project number 45891292
 ## Scientific focus
 **Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Cystic fibrosis**; **Immunology**;
 
-**Functional genomics**; **Microbiome**; **Multi-omics data analysis**; **Next-Generation Sequencing (NGS)**; 
+**Functional genomics**; **Big-data analysis deciphering the pathogenesis of bacterial or viral pathogens**; **Multi-omics data analysis**; **Microbiome**; **Next-Generation Sequencing (NGS)**; 
 
 **Virus genomic epidemiology and virus mutation surveillance**
 
