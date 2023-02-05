@@ -88,6 +88,7 @@ Funding source: [Deutsche Forschungsgemeinschaft (DFG) - Project number 45891292
 ### h-index: 11
 
 ## Selected Publications:
+1. A. Tony-Odigie, A. H. Dalpke, S. Boutin, **B. Yi (corresponding author)** (2023). Commensal bacteria can inhibit the growth of P. aeruginosa in cystic fibrosis airway infections through a released metabolite. *bioRxiv*. DOI: 10.1101/2023.02.03.526996.
 1.  **B. Yi (corresponding author)**, A. Laubner, M. Stadtmüller, E. Patrasová, L. Šimůnková, F. Rost, S. Winkler, S. Reinhardt, A. Dahl, A. H. Dalpke (2022). Investigating the cause of a 2021 winter wave of COVID-19 in a border region in Eastern Germany: a mixed-methods study, August to November 2021. *medRxiv*. DOI: 10.1101/2022.10.15.22281123.
 2.  C. M. Munz, H. Kreher, A. Erdbeer, S. Richter, D. Westphal, **B. Yi**, R. Behrendt, N. Stanke, F. Lindel, D. Lindemann (2022). Efficient production of inhibitor-free foamy virus glycoprotein-containing retroviral vectors by proteoglycan-deficient packaging cells. *Molecular Therapy-Methods & Clinical Development*. DOI: 10.1016/j.omtm.2022.07.004. (Impact factor: 5.85)
 3.	M. Stadtmüller, A. Laubner, F. Rost, S. Winkler, E. Patrasová, L. Šimůnková, S. Reinhardt, J. Beil, A. H. Dalpke, **B. Yi (corresponding author)** (2022). Emergence and spread of a sub-lineage of SARS-CoV-2 Alpha variant B.1.1.7 in Europe, and with further evolution of spike mutation accumulations shared with the Beta and Gamma variants. *Virus Evolution*. DOI: 10.1093/ve/veac010. (Impact Factor: 5.61)
@@ -115,7 +116,7 @@ Funding source: [Deutsche Forschungsgemeinschaft (DFG) - Project number 45891292
 25.	Z. Jiang, R. Li, J. Xi, **B.Yi** (1999). Determination of trace amounts of manganese by β-cyclodextrin polymer solid phase spectrophotometry using 2-(5-bromo-2-pyridylazo)-5-diethylaminophenol. *Analytica chimica acta*. 392(2-3):247-53; DOI: 10.1016/S0003-2670(99)00175-0 (Impact Factor: 6.91)
 
 ## Selected presentations at national or international conferences: 
-26. **B. Yi** (presenting author), et al.: Sars-CoV-2 community transmissions in a border region between Germany and the Czech Republic
+27. **B. Yi** (presenting author), et al.: Sars-CoV-2 community transmissions in a border region between Germany and the Czech Republic
 in autumn 2021. Presentation at the 31st Annual Meeting of the Society for Virology, virtual meeting, March, 2022.
 27.	**B. Yi** (presenting author), et al.: Emergence and spread of a SARS-CoV-2 B.1.1.7 sub-lineage in Europe. Presentation at the 7th JOINT CONFERENCE OF DGHM & VAAM, virtual meeting, September 12-14, 2021.
 28.	**B. Yi** (presenting author) et al.: The impact of Streptococcus on immune response triggered by Pseudomonas aeruginosa infection in the context of cystic fibrosis. Presentation at the 7th JOINT CONFERENCE OF DGHM & VAAM, virtual meeting, September 12-14, 2021. 
@@ -135,7 +136,7 @@ in autumn 2021. Presentation at the 31st Annual Meeting of the Society for Virol
 38.	**B. Yi** (presenting author) et al.: The pax-3 gene is involved in vulva formation in Pristionchus pacificus and is a target of the Hox gene lin-39. Presentation at the 16th International C. elegans Meeting, University of California, Los Angeles, California, June 27 – July 1, 2008.
 
 ## BOOK CHAPTERS:
-43.	**B. Yi**, A. Choukèr. The immune system and man-environment interaction: A general understanding. In: The Immune System in Space – Are We Prepared? Edited by A. Choukèr and O. Ullrich. Springer 2016.
+44.	**B. Yi**, A. Choukèr. The immune system and man-environment interaction: A general understanding. In: The Immune System in Space – Are We Prepared? Edited by A. Choukèr and O. Ullrich. Springer 2016.
 
 44.	**B. Yi**, S. Tauber, O. Ullrich, A. Choukèr. Immune dysfunction in space - an integrative view. In: Effect of Spaceflight and Analogue Culture on Human and Microbial Cells: Novel Insights into Disease Mechanisms. Edited by Cheryl A. Nickerson, Neal R. Pellis, C. Mark Ott, Springer 2016.
 
