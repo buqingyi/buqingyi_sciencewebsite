@@ -86,7 +86,7 @@ Funding source: [Deutsche Forschungsgemeinschaft (DFG) - Project number 45891292
 
 ### Number of first and last author papers: 17
 ### Total impact factors of first and last author papers: 141
-### h-index: 11
+### h-index: 12
 
 ## Selected Publications:
 1. A. Tony-Odigie, A. H. Dalpke, S. Boutin, **B. Yi (corresponding author)** (2023). Commensal bacteria can inhibit the growth of P. aeruginosa in cystic fibrosis airway infections through a released metabolite. *bioRxiv*. DOI: 10.1101/2023.02.03.526996.
