@@ -17,7 +17,7 @@
 Funding source: [Deutsche Forschungsgemeinschaft (DFG) - Project number 458912928](https://gepris.dfg.de/gepris/person/416344378)
 
 ## Scientific focus
-**Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Cystic fibrosis**; **Immunology**;
+**Respiratory infectious diseases**; **Host-pathogen-commensal interaction**; **Infection and Inflammation treatement**; **Cystic fibrosis**; **Immunology**; **Genomic epidemiology of emerging pathogens**;
 
 **Functional genomics**; **Big-data analysis deciphering the pathogenesis of bacterial or viral pathogens**; **Multi-omics data analysis**; **Microbiome**; **Next-Generation Sequencing (NGS)**; 
 
